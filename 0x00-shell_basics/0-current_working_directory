@@ -1,3 +1,2 @@
 #!/bin/bash
 chmod +x print_current_directory.sh
-
